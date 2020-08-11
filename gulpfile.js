@@ -67,8 +67,6 @@ function browserSync(params) {
   })
 }
 
-
-
 function html() {
   return src(path.src.html)
     // @ts-ignore
